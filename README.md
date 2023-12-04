@@ -16,13 +16,11 @@
   
   - 컴퓨터구조나 운영체제를 아예 모르는 사람에게는 어렵고 와닿지 않는 부분이 존재할 수 있다. 그런 분들은 "혼자 공부하는 컴퓨터 구조 + 운영체제" 추천합니다.
 
-
-
 <br>
 
 ### Network
 
-- [컴퓨터 네트워킹 하향식 접근](https://github.com/ganjisriver/Computer-Science/tree/master/컴퓨터 네트워킹 하향식 접근/1장 컴퓨터 네트워크와 인터넷)
+- [컴퓨터 네트워킹 하향식 접근](https://github.com/ganjisriver/Computer-Science/tree/master/컴퓨터__네트워킹 하향식 접근/1장 컴퓨터 네트워크와 인터넷)
   
   - 굉장히 깊은 수준으로 네트워크에 대한 원리를 알려줍니다.
   
@@ -40,7 +38,7 @@
 
 ### Complex
 
-- [면접을 위한 CS 전공지식 노트](/https://github.com/ganjisriver/Computer-Science/tree/master/면접을 위한 CS 전공지식 노트)
+- [면접을 위한 CS 전공지식 노트](https://github.com/ganjisriver/Computer-Science/tree/master/면접을 위한 CS 전공지식 노트)
   
   - 내용 자체는 매우 얕기 때문에, 책에 나오는 키워드를 중심으로 구글링 및 검색을 활용하여 공부하면 도움이 된다고 생각
     
