@@ -8,7 +8,7 @@
 
 ### Operation System
 
-- [쉽게 배우는 운영체제]()
+- [쉽게 배우는 운영체제](https://github.com/ganjisriver/Computer-Science/tree/master/쉽게_배우는_운영체제)
   
   - 해당 책을 통해, 운영체제에 대해 어느정도 이해를 할 수 있게 되었다고 생각함.
   
@@ -20,7 +20,7 @@
 
 ### Network
 
-- [컴퓨터 네트워킹 하향식 접근](https://github.com/ganjisriver/Computer-Science/tree/master/컴퓨터__네트워킹 하향식 접근/1장 컴퓨터 네트워크와 인터넷)
+- [컴퓨터 네트워킹 하향식 접근](https://github.com/ganjisriver/Computer-Science/tree/master/컴퓨터_네트워킹_하향식_접근)
   
   - 굉장히 깊은 수준으로 네트워크에 대한 원리를 알려줍니다.
   
@@ -30,7 +30,7 @@
 
 ### Database
 
-- SQL 자격검정 실전문제
+- [SQL 자격검정 실전문제](https://github.com/ganjisriver/Computer-Science/tree/master/SQL_자격검정_실전문제)
   
   - 노랭이책이라고 불리는 SQL문제 
   
@@ -38,7 +38,7 @@
 
 ### Complex
 
-- [면접을 위한 CS 전공지식 노트](https://github.com/ganjisriver/Computer-Science/tree/master/면접을 위한 CS 전공지식 노트)
+- [면접을 위한 CS 전공지식 노트](https://github.com/ganjisriver/Computer-Science/tree/master/컴퓨터_네트워킹_하향식_접근)
   
   - 내용 자체는 매우 얕기 때문에, 책에 나오는 키워드를 중심으로 구글링 및 검색을 활용하여 공부하면 도움이 된다고 생각
     
